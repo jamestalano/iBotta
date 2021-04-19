@@ -1,0 +1,6 @@
+framework module Pods_IBottaProjetTests {
+  umbrella header "Pods-IBottaProjetTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

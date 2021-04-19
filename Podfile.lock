@@ -1,0 +1,22 @@
+PODS:
+  - FaveButton (3.2.1)
+  - SDWebImage (5.11.0):
+    - SDWebImage/Core (= 5.11.0)
+  - SDWebImage/Core (5.11.0)
+
+DEPENDENCIES:
+  - FaveButton
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - FaveButton
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  FaveButton: 93cfebf6030336fa7653fad2068c3152ed668b39
+  SDWebImage: 7acbb57630ac7db4a495547fb73916ff3e432f6b
+
+PODFILE CHECKSUM: df64e4aaf2f5ba4bbece0732eb4a3cbe9c3ae5b8
+
+COCOAPODS: 1.10.1
